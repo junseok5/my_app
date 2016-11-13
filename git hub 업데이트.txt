@@ -1,0 +1,7 @@
+git add .
+git commit -m "<변화한 내용>"
+
+으로 local git을 업데이트하고, 
+
+git push origin master
+[출처] [Node.js 강좌] 4. npm init, npm install express --save, nodemon|작성자 azure0777
